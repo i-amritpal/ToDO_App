@@ -1,6 +1,6 @@
-# todo
+# Todo
 
-A new Flutter project.
+A new mini Flutter project.
 
 ## Getting Started
 
